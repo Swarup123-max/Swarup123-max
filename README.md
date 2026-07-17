@@ -55,12 +55,13 @@ Building efficient architectures, robust APIs, and scalable software solutions. 
 </table>
 
 ---
+---
 
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Swarup123-max&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup123-max&layout=compact&theme=dark&hide_border=true&langs_count=7" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="left">
