@@ -56,17 +56,11 @@ Building efficient architectures, robust APIs, and scalable software solutions. 
 
 ---
 ---
-
 ### 📊 My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swarup123-max&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup123-max&layout=compact&theme=dark&hide_border=true&langs_count=7" alt="Top Languages" height="180px"/>
-</p>
+[![Swarup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swarup123-max&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup123-max&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180px"/>
-</p>
+[![Swarup's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup123-max&layout=compact&theme=dark&hide_border=true&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
