@@ -55,20 +55,27 @@ Building efficient architectures, robust APIs, and scalable software solutions. 
 </table>
 
 ---
+---
+
 ### 📊 My GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=Swarup123-max&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="190px"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Swarup123-max&theme=dark&hide_border=true" alt="GitHub Streak" height="190px"/>
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Swarup123-max&layout=compact&theme=dark&hide_border=true&langs_count=7" alt="Top Languages" height="190px"/>
 </p>
+
 ---
+
+### 🧰 Tech Stack & Tools
+
+🛡️ **Backend:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+💻 **Frontend & Tools:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🛠️ Current Projects & Focus
 * ⚙️ **Backend:** Crafting high-performance REST APIs, structural architecture design, and database optimizations.
