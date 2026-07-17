@@ -74,4 +74,4 @@ Building efficient architectures, robust APIs, and scalable software solutions. 
 * 🤖 **Automation & Core:** Working on smart CLI scripts, background threads, and system automations.
 * 📚 **Algorithms:** Constantly sharpening problem-solving skills via data structures and algorithm challenges.
 
-📫 **How to reach me:** [Your LinkedIn URL](https://linkedin.com) | [Your Email](mailto:your.email@example.com)
+📫 **How to reach me:** [Your LinkedIn URL](https://linkedin.com) | [Your Email](swarupdas943711@gmail.com.com)
