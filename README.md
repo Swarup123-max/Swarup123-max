@@ -55,16 +55,18 @@ Building efficient architectures, robust APIs, and scalable software solutions. 
 </table>
 
 ---
----###
-📊 My GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=Swarup123-max&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://streak-stats.demolab.com/?user=Swarup123-max&theme=dark&hide_border=true" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Swarup123-max&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="190px"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Swarup123-max&layout=compact&theme=dark&hide_border=true&langs_count=7" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Swarup123-max&theme=dark&hide_border=true" alt="GitHub Streak" height="190px"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Swarup123-max&layout=compact&theme=dark&hide_border=true&langs_count=7" alt="Top Languages" height="190px"/>
 </p>
 ---
 
