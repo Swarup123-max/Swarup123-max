@@ -64,7 +64,7 @@ Building efficient architectures, robust APIs, and scalable software solutions. 
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarup123-max&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180px"/>
 </p>
 
 ---
